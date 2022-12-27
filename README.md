@@ -21,11 +21,15 @@
                                                             
 
 <p><li>Tools</li></p>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+ 
+ <p>
+
 <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white">
+<p>
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
-
-
+<p>
 
 <!--
 **SungChangNam/SungChangNam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
