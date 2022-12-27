@@ -2,8 +2,8 @@
 
 Skills
 
-<p><li><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></li></p><p><li><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"></li></p>     
-<p><li><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"></li></p>
+<p><li><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></li></p>          
+<p><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"></p>
 <p><li><img src="https://img.shields.io/badge/Django RestFramework-092E20?style=for-the-badge&logo=Django&logoColor=white"></li></p>
           <p><li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></li></p>
           <p><li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></li></p>
