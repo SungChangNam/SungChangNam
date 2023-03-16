@@ -1,13 +1,13 @@
-=### 👋 안녕하세요! 저는 웹 백엔드 개발자 성창남입니다.
+### 👋 Hello there! I'm junior Web_BackEnd_Devoloper 
 
-저는 파이썬과 장고를 주로 사용하여 웹 서비스를 개발하고 있습니다. 
-저의 목표는 효율적이고 안전한 웹 애플리케이션을 만드는 것입니다.
+
+
 
 <p><li>Skills</li></p>
 
 <p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 <img src="https://img.shields.io/badge/Django RestFramework-092E20?style=for-the-badge&logo=Django&logoColor=white">
 <p>
@@ -17,6 +17,8 @@
 <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 <p>
+    
+                                                            
 
 <p><li>Tools</li></p>
  
@@ -26,4 +28,21 @@
 <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white">
 <p>
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
+<p>
+
+<!--
+**SungChangNam/SungChangNam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
