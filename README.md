@@ -1,4 +1,4 @@
-### 👋 Hello there! I'm junior Web_BackEnd_Devoloper 
+### 👋 Hello there! I'm junior Web_FullStack_Devoloper 
 
 
 
