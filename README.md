@@ -1,25 +1,26 @@
 ## 👋 Hello! I'm a Junior Full-Stack Web Developer
 
-💡 **Backend 중심의 주니어 풀스택 개발자**  
-Python(Django)와 Java(Spring)을 기반으로  
-**API 개발 · 간단한 프론트 · 컨테이너 환경 구성**까지 경험했습니다.
+💡 **Backend-focused Junior Developer**  
+I have hands-on experience building **RESTful APIs** using **Java (Spring Boot)** and **Python (Django)**.  
+I focus on clean API design, basic frontend integration, and practical development workflows.
 
-- REST API 설계 및 구현
-- 레거시 코드 수정 및 유지보수
-- 테스트 데이터 작성 및 검증
-- 실무 중심 개발 환경 경험 (협업 · Git 기반)
+- REST API design and implementation  
+- Backend logic development (Controller → Service → Repository)  
+- Exception handling and validation  
+- Maintaining and improving existing codebases  
+- Git-based collaboration and code review experience  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 🔹 Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=Django&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=Django&logoColor=white)
 
 ---
 
@@ -35,28 +36,45 @@ Python(Django)와 Java(Spring)을 기반으로
 
 ---
 
+## 🚀 Projects
+
+### 📌 Fukuoka Guide API
+**Backend REST API Project**
+
+- Tech: Java, Spring Boot, JPA, PostgreSQL  
+- Features:
+  - CRUD APIs for managing places
+  - Global exception handling with `@ControllerAdvice`
+  - Input validation and error response design
+  - Layered architecture (Controller / Service / Repository)
+- GitHub: https://github.com/SungChangNam/fukuoka-guide
+
+> A backend-focused project built to practice REST API fundamentals, clean architecture, and error handling.
+
+---
+
 ## 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SungChangNam&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SungChangNam&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SungChangNam&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SungChangNam&show_icons=true&theme=transparent)
 
 ---
 
 ## 🌱 Currently Learning
-- Spring 기반 REST API 구조 이해
-- 예외 처리 및 트랜잭션 관리
-- 클린 코드 & 유지보수 관점의 설계
+- Spring transaction management (`@Transactional`)
+- Global exception handling and validation patterns
+- Writing maintainable and testable backend code
 
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/SungChangNam
-- Email: changnamsung@gmail.com
+- GitHub: https://github.com/SungChangNam  
+- Email: changnamsung@gmail.com  
