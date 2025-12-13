@@ -1,80 +1,72 @@
-## 👋 Hello! I'm a Junior Full-Stack Web Developer
+## 👋 Hello! I'm a Junior Backend-Focused Developer
 
-💡 **Backend-focused Junior Developer**  
-I have hands-on experience building **RESTful APIs** using **Java (Spring Boot)** and **Python (Django)**.  
-I focus on clean API design, basic frontend integration, and practical development workflows.
+I’m a **backend-focused junior developer** with experience in building RESTful APIs  
+using **Java (Spring Boot)** and **Python (Django)**.
 
-- REST API design and implementation  
-- Backend logic development (Controller → Service → Repository)  
-- Exception handling and validation  
-- Maintaining and improving existing codebases  
-- Git-based collaboration and code review experience  
+At the moment, I’m focusing on a **personal backend project** to improve  
+clean architecture, exception handling, and API design.  
+My GitHub also includes a **larger Django project from a bootcamp**  
+and repositories created during my learning process.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🔹 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+### Backend
+- **Java**, **Spring Boot**
+- **Python**, **Django**, **Django REST Framework**
+- REST API design, validation, exception handling
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=Django&logoColor=white)
+### Frontend (Basic)
+- JavaScript, HTML5, CSS3
 
----
-
-### 🔹 Frontend (Basic)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-
----
-
-### 🔹 DevOps / Environment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+### DevOps / Environment
+- Docker (basic usage)
 
 ---
 
 ## 🚀 Projects
 
-### 📌 Fukuoka Guide API
-**Backend REST API Project**
+### 📌 Off The Outfit – Backend (Bootcamp Team Project)
+- Tech: Python, Django, Django REST Framework  
+- Role & Contributions:
+  - Designed and implemented backend APIs
+  - Worked on data modeling and CRUD features
+  - Integrated backend APIs with frontend pages
+  - Participated in team-based development and code collaboration
+- GitHub: https://github.com/SungChangNam/off_the_outfit_backend_pub
 
-- Tech: Java, Spring Boot, JPA, PostgreSQL  
-- Features:
-  - CRUD APIs for managing places
-  - Global exception handling with `@ControllerAdvice`
-  - Input validation and error response design
+> A Django-based backend project developed during a full-time bootcamp,  
+> focusing on REST API development and backend fundamentals.
+
+---
+
+### 🛠 Personal Backend Project *(In Progress)*
+- Tech: Java, Spring Boot  
+- Focus:
+  - RESTful API design
   - Layered architecture (Controller / Service / Repository)
-- GitHub: https://github.com/SungChangNam/fukuoka-guide
+  - Global exception handling
+- GitHub: (private or in-progress repository)
 
-> A backend-focused project built to practice REST API fundamentals, clean architecture, and error handling.
+> Currently under active development to strengthen backend fundamentals  
+> and code quality.
 
 ---
 
 ## 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SungChangNam&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SungChangNam&show_icons=true&theme=transparent)
+- Git, GitHub
+- VS Code, PyCharm, Eclipse
 
 ---
 
 ## 🌱 Currently Learning
 - Spring transaction management (`@Transactional`)
-- Global exception handling and validation patterns
-- Writing maintainable and testable backend code
+- Exception handling patterns with `@ControllerAdvice`
+- Writing clean and maintainable backend code
 
 ---
 
 ## 📫 Contact
 - GitHub: https://github.com/SungChangNam  
-- Email: changnamsung@gmail.com  
+- Email: changnamsung@gmail.com
