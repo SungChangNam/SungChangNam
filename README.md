@@ -1,72 +1,95 @@
-## 👋 Hello! I'm a Junior Backend-Focused Developer
+# Hi, I'm Changnam 👋
 
-I’m a **backend-focused junior developer** with experience in building RESTful APIs  
-using **Java (Spring Boot)** and **Python (Django)**.
+I'm a Korean developer based in Japan, focused on growing my backend development skills.
 
-At the moment, I’m focusing on a **personal backend project** to improve  
-clean architecture, exception handling, and API design.  
-My GitHub also includes a **larger Django project from a bootcamp**  
-and repositories created during my learning process.
+My professional experience includes **Java application maintenance, small code changes, and testing with Oracle DB**, as well as **impact analysis and verification for a Java 8 → 21 migration**.
 
----
+Alongside my work experience, I build personal projects with Spring Boot and have experience developing REST APIs with Django through a bootcamp team project.
+
+## 💼 Professional Experience
+
+### Banking System Migration — Java 8 → 21
+- Investigated existing source code and library dependencies using Linux tools.
+- Made small code changes and worked with Git merges and peer reviews.
+- Prepared test specifications and Oracle test data.
+- Compared results between existing and new environments using logs, database records, and code coverage.
+- Verified both expected database updates and cases where data should remain unchanged.
+
+### Smart Meter Data Management System
+- Maintained and made small changes to Java batch processing logic.
+- Updated detailed design documents.
+- Executed existing JUnit tests and regression checks.
+- Tested XML input and reprocessing flows.
+- Verified processing results in Oracle DB and a key-value store.
 
 ## 🛠 Tech Stack
 
-### Backend
-- **Java**, **Spring Boot**
-- **Python**, **Django**, **Django REST Framework**
-- REST API design, validation, exception handling
+### Professional Experience
+- **Languages:** Java, SQL
+- **Frameworks & Testing:** JSF, a Spring-based custom framework, JUnit
+- **Database:** Oracle DB
+- **Environment & Tools:** Linux, Git, SVN, Eclipse
 
-### Frontend (Basic)
-- JavaScript, HTML5, CSS3
-
-### DevOps / Environment
-- Docker (basic usage)
-
----
+### Personal Projects & Learning
+- **Java:** Spring Boot, Spring MVC, Thymeleaf, MyBatis
+- **Python:** Django, Django REST Framework
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **Frontend:** HTML, CSS, JavaScript
+- **Tools:** Docker, GitHub, IntelliJ IDEA
 
 ## 🚀 Projects
 
-### 📌 Off The Outfit – Backend (Bootcamp Team Project)
-- Tech: Python, Django, Django REST Framework  
-- Role & Contributions:
-  - Designed and implemented backend APIs
-  - Worked on data modeling and CRUD features
-  - Integrated backend APIs with frontend pages
-  - Participated in team-based development and code collaboration
-- GitHub: https://github.com/SungChangNam/off_the_outfit_backend_pub
+### Tokyo Life Blog — Personal Project
+**In progress**
 
-> A Django-based backend project developed during a full-time bootcamp,  
-> focusing on REST API development and backend fundamentals.
+A blog about life, travel, food, and culture in Tokyo from a foreign resident's perspective.
 
----
+**Tech:** Java, Spring Boot, Spring MVC, Thymeleaf, MyBatis, PostgreSQL, Docker
 
-### 🛠 Personal Backend Project *(In Progress)*
-- Tech: Java, Spring Boot  
-- Focus:
-  - RESTful API design
-  - Layered architecture (Controller / Service / Repository)
-  - Global exception handling
-- GitHub: (private or in-progress repository)
+This project uses server-rendered pages and follows a workflow from requirements and database design to implementation and testing.
 
-> Currently under active development to strengthen backend fundamentals  
-> and code quality.
+**Implemented so far**
+- Database design, including an ER diagram and table definitions
+- Post list and detail pages
+- Database access with MyBatis
 
----
+**Planned features**
+- Post creation, editing, and deletion
+- Categories and tags
+- Images and comments
+- Search and pagination
+- Published and draft posts
 
-## 🔧 Tools
-- Git, GitHub
-- VS Code, PyCharm, Eclipse
+[View repository](https://github.com/SungChangNam/tokyo-life-blog)
 
----
+### Off The Outfit — Bootcamp Team Project
+
+A Django-based project focused on REST API development and backend fundamentals.
+
+**Tech:** Python, Django, Django REST Framework
+
+**Contributions**
+- Designed and implemented backend APIs
+- Worked on data modeling and CRUD features
+- Connected backend APIs to frontend pages
+- Collaborated with teammates on development and code integration
+
+[View repository](https://github.com/SungChangNam/off_the_outfit_backend_pub)
 
 ## 🌱 Currently Learning
-- Spring transaction management (`@Transactional`)
-- Exception handling patterns with `@ControllerAdvice`
-- Writing clean and maintainable backend code
 
----
+- Separating responsibilities across controllers, services, and data access layers
+- Spring transaction management with `@Transactional`
+- Input validation and exception handling
+- Testing and maintaining database-backed applications
+
+## 🌏 Languages
+
+- **Korean:** Native
+- **Japanese:** JLPT N2; experience working in Japan
+- **English:** Experience living and working in Australia
 
 ## 📫 Contact
-- GitHub: https://github.com/SungChangNam  
-- Email: changnamsung@gmail.com
+
+- [GitHub](https://github.com/SungChangNam)
+- [Email](mailto:changnamsung@gmail.com)
